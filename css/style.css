@@ -238,13 +238,13 @@ p {
   max-width: 100%;
 }
 .services .services__items .items__row .item1 {
-  background: url(../../img/icon1.png) 50% 0 no-repeat;
+  background: url(../img/icon1.png) 50% 0 no-repeat;
 }
 .services .services__items .items__row .item2 {
-  background: url(../../img/icon2.png) 50% 0 no-repeat;
+  background: url(../img/icon2.png) 50% 0 no-repeat;
 }
 .services .services__items .items__row .item3 {
-  background: url(../../img/icon3.png) 50% 0 no-repeat;
+  background: url(../img/icon3.png) 50% 0 no-repeat;
 }
 
 /*---SECTION 3---*/
